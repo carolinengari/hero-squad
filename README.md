@@ -18,7 +18,7 @@ Make sure you have a stable internet to have the ability to clone the repository
 
 Type the following command in your terminal to clone this repository
 
-git clone https://github.com/carolinengari/hero-squad
+git clone https://github.com/carolinengari/hero-squad.git
 
 * In the command prompt, navigate to cloned folder and use the following command to run the app `$ gradle run`
 * Open the browser and enter the address `localhost:3000`
